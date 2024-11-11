@@ -1,0 +1,75 @@
+#mainheading
+{
+    background-color: red;
+    color: white;
+    font-size: 3rem;
+    border: 5px groove darkblue;
+    text-align: center;
+    border-radius: 20px;
+    text-shadow: 10px 10px 10px blue;
+    margin: 10px;
+    
+}
+#body{
+background-color: black;
+border: 10px double  red;
+}
+#mainimage{
+    border: 5px solid darkgreen;
+    width: 1450px;
+    height: 500px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin bottom: 10px;
+    margin top:5px;  
+}
+
+h2{
+    color: white;
+    margin-left: 50px;
+    
+}
+
+p{
+    
+color: white;
+display: inline-block;
+width: 1000px;
+height: 300px;
+overflow: auto;
+margin-left: 10px;
+border: 5px groove darkslateblue;
+box-shadow: 5px 5px 5px lightsalmon;
+
+}
+
+.allimages{
+    width: 300px;
+    height: 300px;
+    padding: 5px;
+    border: 5px dotted darkblue;
+    margin: 10px;
+    display: inline-block;
+    
+}
+
+#ironman{
+    width: 300px;
+    box-sizing: content-box;
+}
+#captain
+{
+    width: 300px;
+    box-sizing: border-box;
+}
+*{
+    text-align: justify;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
